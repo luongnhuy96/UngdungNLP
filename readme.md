@@ -34,6 +34,16 @@ See the `my_problem_example.json` to see an example of a custom problem. The jso
 - (optional) `private_tests`, that follows the same structure as `public_tests`
 - (optional) `generated_tests`, that follows the same structure as `public_tests`
 
+
+Trading strategy problem
+<p align="center">
+ <table class="tg">
+  <tr>
+    <td class="tg-c3ow"><img src="./images/trading_problem.png" align="center" width="600""></td>
+    </tr>
+</table>
+</p>
+
 ## How to run
 ```bash
 
