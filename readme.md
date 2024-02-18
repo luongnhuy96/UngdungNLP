@@ -39,7 +39,7 @@ Trading strategy problem
 <p align="center">
  <table class="tg">
   <tr>
-    <td class="tg-c3ow"><img src="./images/trading_problem.png" align="center" width="500""></td>
+    <td class="tg-c3ow"><img src="./images/trading_problem.png" align="center" width="800""></td>
     </tr>
 </table>
 </p>
