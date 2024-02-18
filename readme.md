@@ -1,8 +1,10 @@
 # using alphacodium for trading strategy and backtest
 Student:
-(0) Lương Như Ý
-(1) Trương Quỳnh Như
-(2) Trần Thị Lan Anh
+(1) Lương Như Ý
+
+(2) Trương Quỳnh Như
+
+(3) Trần Thị Lan Anh
 
 
 
@@ -15,6 +17,7 @@ Student:
 
 ## Installation
 (0) clone AlphaCodium Github:`git clone https://github.com/Codium-ai/AlphaCodium.git`
+
 (1) setup a virtual environment and run: `pip install -r requirements.txt`
 
 (2) Duplicate the file `alpha_codium/settings/.secrets_template.toml`, rename it as `.secrets.toml`, and fill in your OpenAI API key:
