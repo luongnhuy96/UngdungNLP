@@ -44,6 +44,17 @@ Trading strategy problem
 </table>
 </p>
 
+
+Backtest problem
+<p align="center">
+ <table class="tg">
+  <tr>
+    <td class="tg-c3ow"><img src="./images/backtest_problem.png" align="center" width="800""></td>
+    <td class="tg-c4ow"><img src="./images/backtest_problem_example.png" align="center" width="600""></td>
+    </tr>
+</table>
+</p>
+
 ## How to run
 ```bash
 
