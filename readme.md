@@ -1,5 +1,8 @@
 # using alphacodium for trading strategy and backtest
-
+Student:
+Lương Như Ý
+Trương Quỳnh Như
+Trần Thị Lan Anh
 ## Architecture
 <img src="https://github.com/luongnhuy96/UngdungNLP/blob/main/images/proposed_flow.png">
 <img src="https://github.com/luongnhuy96/UngdungNLP/blob/main/images/iterations.png">
