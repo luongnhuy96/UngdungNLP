@@ -1,11 +1,13 @@
-# using alphacodium for trading strategy and backtest
+# Using alphacodium for trading strategy and backtest
 Student:
 
-(1) Lương Như Ý
+(1) Lương Như Ý - MSSV: 22C01029
 
-(2) Trương Quỳnh Như
+(2) Trương Quỳnh Như - MSSV: 22C01012
 
-(3) Trần Thị Lan Anh
+(3) Trần Thị Lan Anh - MSSV:22C01002
+
+(4) Lê Hoài Thanh - MSSV:22C01018
 
 
 
