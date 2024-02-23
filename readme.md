@@ -107,3 +107,6 @@ python -m alpha_codium.solve_my_problem --my_problem_json_file D:/UngdungNLP/Alp
 
 python -m alpha_codium.solve_my_problem --my_problem_json_file D:/UngdungNLP/AlphaCodium/my_problem_example_Y_backtestv3.json > output_backtest.txt
 ```
+
+## Compare between normal code and alphacodium generating code
+In the `Compare_normal_vs_alphadiumcode.ipynb` i use both normal code and alphacodium generating code apply for the real VCB stock to compare the result. The result is the same. So alphacodium has do a good job in generating code from proposed flow.
