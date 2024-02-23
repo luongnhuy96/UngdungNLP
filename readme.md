@@ -1,4 +1,6 @@
 # Using alphacodium for trading strategy and backtest
+GVHD: TS. Ngô Minh Mẫn
+
 Student:
 
 (1) Lương Như Ý - MSSV: 22C01029
